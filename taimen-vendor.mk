@@ -978,4 +978,4 @@ PRODUCT_PACKAGES += \
     TimeService \
     wahoo_gfxdrv \
     qti-vzw-ims-internal \
-    manifest_android.hardware.drm@1.3-service.widevine
+    manifest_android.hardware.drm@1.3-service.widevine.xml
